@@ -1,46 +1,30 @@
-✈️ First Flight: Taking off into the world of code!
-Hi, I'm OBJ7, and I'm on my First Flight towards becoming developer!
+# OBJ7
 
-I'm excited about:
+I build practical web products for opportunity access, public information lookup, and AI-assisted planning.
 
-** Software development:** Building things that solve problems and improve lives. 
+My current focus is shipping small but useful tools for Ghanaian users, then improving them into products with clear workflows, clean interfaces, and real deployment paths.
 
-** Python:** My current co-pilot as I navigate the Python programming landscape. Learning basics and building foundational skills.
+## Featured projects
 
-** AI and machine learning:** The future is fascinating, and I'm eager to explore the potential of intelligent systems.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [APPLY! Stewards](https://github.com/OBJ7/apply-stewards-site) | WhatsApp-first opportunity platform for students and young graduates in Ghana, with verified listings, member submissions, partner pages, and Netlify serverless workflows. | JavaScript, Netlify Functions, Netlify Blobs |
+| [Do I Have Light?](https://github.com/OBJ7/do-i-have-lights) | Static public lookup tool for Ghana load-management schedules, with area search, GPS-assisted lookup, and shareable results. | HTML, CSS, JavaScript, OpenStreetMap |
+| LockIn premium planning layer | Private extension work exploring how AI planning and accountability can become a paid tier inside APPLY! Stewards. | Next.js, TypeScript, AWS Bedrock, DynamoDB |
 
-** Linux:** I'm comfortable navigating the terminal and understand the underlying technical landscape.
+## What I care about
 
-I'm currently:
-** Learning through introductory courses and projects:** Building a solid foundation with Python, learning syntax, data structures, and basic algorithms.
+- Building tools that solve visible, local problems.
+- Turning WhatsApp-first communities into clearer web products.
+- Designing simple workflows for trust, distribution, and action.
+- Learning in public through shipped projects, not only tutorials.
 
-️ Experimenting and building small projects: Putting my newfound knowledge into practice, even if it's just creating tiny projects at a time!
+## Current stack
 
-** Staying curious and exploring:** Keeping my eyes open for new technologies and opportunities to learn.
+JavaScript, TypeScript, React, Next.js, Node.js, Netlify, Vercel, AWS Bedrock, DynamoDB, HTML, CSS, Git, and GitHub.
 
-️I'm looking to collaborate on...
+## Contact
 
-Open-source projects: Contributing my skills to impactful projects that benefit the community.
-
-Hackathons: Tackling challenging problems and learning new skills in a collaborative environment.
-
-Research initiatives: Exploring the frontiers of technology and contributing to meaningful discoveries.
-
-Team projects: Building something awesome with talented and motivated individuals.
-
-** How to reach me...**
-
-Email: oseibj7@gmail.com
-
-LinkedIn: www.linkedin.com/in/juniorob
-
-Twitter: @OBJ_ective
-
-** Pronouns:** HE/HIM/HIS
-
-⚡ Fun facts:
-I'm passionate about using technology for social impact, aiming to bridge the digital divide and empower communities.
-
-I'm a Christian with a strong belief in serving others and making a positive difference in the world.
-
-When I'm not coding, you can find me cheering on my favorite football team or discussing leadership principles, with a focus on Africa, with friends. ⚽️
+- Email: [oseibj7@gmail.com](mailto:oseibj7@gmail.com)
+- LinkedIn: [linkedin.com/in/juniorob](https://www.linkedin.com/in/juniorob)
+- GitHub: [github.com/OBJ7](https://github.com/OBJ7)
