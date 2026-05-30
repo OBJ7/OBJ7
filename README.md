@@ -9,7 +9,7 @@ My current focus is shipping small but useful tools for Ghanaian users, then imp
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [APPLY! Stewards](https://github.com/OBJ7/apply-stewards-site) | WhatsApp-first opportunity platform for students and young graduates in Ghana, with verified listings, member submissions, partner pages, and Netlify serverless workflows. | JavaScript, Netlify Functions, Netlify Blobs |
-| [Do I Have Light?](https://github.com/OBJ7/do-i-have-lights) | Static public lookup tool for Ghana load-management schedules, with area search, GPS-assisted lookup, and shareable results. | HTML, CSS, JavaScript, OpenStreetMap |
+| [Do I Have Light?](https://github.com/OBJ7/do-i-have-lights) / [Live demo](https://obj7.github.io/do-i-have-lights/) | Static public lookup tool for Ghana load-management schedules, with area search, GPS-assisted lookup, and shareable results. | HTML, CSS, JavaScript, OpenStreetMap |
 | LockIn premium planning layer | Private extension work exploring how AI planning and accountability can become a paid tier inside APPLY! Stewards. | Next.js, TypeScript, AWS Bedrock, DynamoDB |
 
 ## What I care about
