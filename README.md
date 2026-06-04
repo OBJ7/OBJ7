@@ -10,12 +10,12 @@ My current focus is shipping small but useful tools for Ghanaian users, then imp
 | --- | --- | --- |
 | [APPLY! Stewards](https://github.com/OBJ7/apply-stewards-site) | WhatsApp-first opportunity platform for students and young graduates in Ghana, with verified listings, member submissions, partner pages, and Netlify serverless workflows. | JavaScript, Netlify Functions, Netlify Blobs |
 | [Do I Have Light?](https://github.com/OBJ7/do-i-have-lights) / [Live demo](https://obj7.github.io/do-i-have-lights/) | Static public lookup tool for Ghana load-management schedules, with area search, GPS-assisted lookup, and shareable results. | HTML, CSS, JavaScript, OpenStreetMap |
-| [SelaliQ preview storefront](https://selaliq-preview.netlify.app/) | Client-safe public preview for a Ghanaian accessories brand, turning an Instagram and Google Forms pre-order flow into a branded product catalogue with direct order-form links. | React, Vite, Netlify, CSS |
+| [SelalieQ preview storefront](https://selaliq-preview.netlify.app/) | Client-safe public preview for a Ghanaian accessories brand, turning an Instagram and Google Forms pre-order flow into a branded product catalogue with direct order-form links. | React, Vite, Netlify, CSS |
 | LockIn premium planning layer | Private extension work exploring how AI planning and accountability can become a paid tier inside APPLY! Stewards. | Next.js, TypeScript, AWS Bedrock, DynamoDB |
 
 ## Client work note
 
-SelaliQ is shown as a public-facing preview only. Private repository details, pricing conversations, client operations, and internal order-management information are intentionally kept off this profile.
+SelalieQ is shown as a public-facing preview only. Private repository details, pricing conversations, client operations, and internal order-management information are intentionally kept off this profile.
 
 ## What I care about
 
